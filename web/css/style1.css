@@ -36,6 +36,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 /* Конец обнуления */
 
 
+
 /* Фон сайта */
 .block1{
     margin: 30px;
@@ -60,7 +61,7 @@ body{
     top: 202px;
 }
 
-.carts{
+.karta{
     position: relative;
     left: 260px;
     top: 202px;
